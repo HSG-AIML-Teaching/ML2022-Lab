@@ -14,7 +14,7 @@ Your Machine Learning Teaching Team
 
 ---
 
-This table lists all coding lab notebooks and exercise notebooks:
+This table lists all coding lab notebooks:
 
 
 | Date                      |  Topic                            |  CoLab Notebook                       | MyBinder Notebook | Solution Notebook | 
