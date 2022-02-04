@@ -1,4 +1,4 @@
-# 8,860,1.00 - Machine Learning Coding Labs
+# 8,860,1.00 Machine Learning - Coding Labs
 
 <!-- ![Course Banner](banner.png) -->
 
