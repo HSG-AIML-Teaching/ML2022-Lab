@@ -14,7 +14,7 @@ Your Machine Learning Teaching Team
 
 ---
 
-This table lists all coding lab notebooks:
+This table lists all code lab notebooks:
 
 
 | Date                      |  Topic                            |  CoLab Notebook                       | MyBinder Notebook | 
@@ -27,3 +27,5 @@ This table lists all coding lab notebooks:
 | Wed, Jan 19, morning session     |  Deep Learning I<br/>(Artificial Neural Nets)     | - | - |
 | Wed, Jan 19, afternoon session   |  Deep Learning II<br/>(Convolutional Neural Nets) | - | - |
 | < TBD                            |  Exam Exercise | - | - |
+
+---
