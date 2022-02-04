@@ -35,4 +35,4 @@ This table lists all coding challenge notebooks:
 
 | Date                      |  Content                          |  CoLab Notebook                       | MyBinder Notebook | 
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
-|  tbd | tbd | Kickstarter Notebook | - |
+|  tbd | Kickstarter Notebook | - | - |
