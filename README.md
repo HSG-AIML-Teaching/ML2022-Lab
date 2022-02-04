@@ -1,6 +1,6 @@
 # 8,860,1.00 - Machine Learning Coding Labs
 
-![Course Banner](banner.png)
+<!-- ![Course Banner](banner.png) -->
 
 Dear Machine Learning course participants,
 
