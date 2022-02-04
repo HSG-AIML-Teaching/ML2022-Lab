@@ -43,10 +43,9 @@ This table lists all coding challenge notebooks:
 
 #### Option 1: Binder Cloud Environment ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAAA/main))
 
-This is the easiest way to run a Notebook in your web browser: just click on the binder badge next to 
-the Notebooks below and off you go. Binder is a service that lets you run Jupyter Notebooks in their cloud at no charge. 
-There is no registration and no
-login required. However, keep in mind that you cannot save any data or your Notebook file in the cloud (you can save them
+This is probably the easiest way to run a Notebook in your web browser: just click on the binder badge next to 
+the Notebooks below, and off you go. Binder is a service that lets you run Jupyter Notebooks in their cloud at no charge. 
+There is no registration and no login required. However, keep in mind that you cannot save any data or your Notebook file in the cloud (you can save them
 on your computer, though). Also, starting a binder
 Notebook can take quite some time, but the performance during runtime is good. 
 For more information, please refer to the [Binder documentation](https://mybinder.readthedocs.io/en/latest/index.html).
