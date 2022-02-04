@@ -17,7 +17,7 @@ Your Machine Learning Teaching Team
 This table lists all code lab notebooks:
 
 
-| Date                      |  Topic                            |  CoLab Notebook                       | MyBinder Notebook | 
+| Date                      |  Content                           |  CoLab Notebook                       | MyBinder Notebook | 
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
 |  < Mon, Jan 17                   | Prerequisite | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
 | Mon, Jan 17.                     |  Python 101: Jupyter Notebooks and Python Basics  | - | - |
@@ -29,3 +29,10 @@ This table lists all code lab notebooks:
 | < TBD                            |  Exam Exercise | - | - |
 
 ---
+
+This table lists all coding challenge notebooks:
+
+
+| Date                      |  Content                          |  CoLab Notebook                       | MyBinder Notebook | 
+|:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
+|  tbd | tbd | Kickstarter Notebook | - |
