@@ -1,12 +1,12 @@
-# 8,860,1.00 Machine Learning - Coding Labs
+# 8,860,1.00 Machine Learning - Code Labs
 
 <!-- ![Course Banner](banner.png) -->
 
-Dear Machine Learning course participants,
+Dear Machine Learning enthusiasts,
 
-welcome to our 8,860,1.00 elective course **Machine Learning**, taught by **Prof. Dr. Damian Borth**. In this course, lectures and hands-on lab courses alternate to provide a better learning experience. The lab course materials for Python programming, Machine Learning und Deep Learning are available in and accessible through this repository.
+Welcome to our 8,860,1.00 elective course **Machine Learning**, taught by **Prof. Dr. Damian Borth**. Lectures and hands-on lab courses alternate to provide a better learning experience in this course. The lab course materials for Python programming, Machine Learning, and Deep Learning are available and accessible through this repository.
 
-Please use a laptop computer for the lab courses (not a tablet) to be able to fully participate in the exercises.
+Please use a laptop computer for the lab courses (not a tablet) to fully participate in the code labs.
 
 Happy Coding!
 
