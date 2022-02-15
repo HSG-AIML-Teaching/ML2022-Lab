@@ -19,7 +19,7 @@ This table lists all code lab notebooks:
 
 | Date                      |  Content                           |  CoLab Notebook                       | MyBinder Notebook | 
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
-|  < Mon, Feb. 28         | Prerequisite | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
+|  < Mon, Feb. 28         | Prerequisite: Test Notebooks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
 |  < Mon, Feb. 28         |  Python 101: Jupyter Notebooks and Python Basics  | - | - |
 |  < Mon, Feb. 28         |  Python 102: Numerical Math & Images              | - | - |
 | Mon, Feb. 28            |  Support Vector Machines (SVMs) & Fashion MNIST   | - | - |
