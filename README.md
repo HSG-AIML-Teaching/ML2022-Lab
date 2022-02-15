@@ -14,7 +14,7 @@ Your Machine Learning Teaching Team
 
 ## Course Code Lab Notebooks
 
-This table lists all code lab notebooks:
+This table lists all lab session and coding challenge session incl. the associated notebooks:
 
 
 | Date                    | Lab     |  Content                         |  CoLab Notebook                 | MyBinder Notebook | 
@@ -28,7 +28,7 @@ This table lists all code lab notebooks:
 | Mon, Mar. 21            | Lab 4   | Recurrent Neural Networks (RNNs) & Nasdaq               | - | - |
 | Mon, Mar. 28            | -       | Coding Challenge - Kick-Off                             | - | - |
 | Mon, Apr. 25            | Lab 5   | Autoencoder Neural Networks (AENs) & Accounting         | - | - |
-| Mon, May 02             | -   | Coding Challenge - Mid-Term                                 | - | - |
+| Mon, May 02             | -       | Coding Challenge - Mid-Term                             | - | - |
 | Mon, May 09             | Lab 6   | Generative Adversarial Networks (GANs) & Fashion MNIST  | - | - |
 | Mon, May 16             | Lab 7   | Reinforcement Learning                                  | - | - |
 | Mon, May 23             | -       | Coding Challenge - Submission                           | - | - |
