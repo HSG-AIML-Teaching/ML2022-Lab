@@ -2,9 +2,9 @@
 
 <!-- ![Course Banner](banner.png) -->
 
-Dear Course Participants,
+Welcome to our 8,860,1.00 elective course **Machine Learning**, taught by **Prof. Dr. Damian Borth**. 
 
-Welcome to our 8,860,1.00 elective course **Machine Learning**, taught by **Prof. Dr. Damian Borth**. Lectures and hands-on lab courses alternate to provide a better learning experience in this course. The lab course materials for Python programming, Machine Learning, and Deep Learning are available and accessible through this repository.
+Lectures and hands-on lab courses alternate to provide a better learning experience in this course. The lab course materials for Python programming, Machine Learning, and Deep Learning are available and accessible through this repository.
 
 Please use a laptop computer for the lab courses (not a tablet) to fully participate in the code labs.
 
