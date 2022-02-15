@@ -26,12 +26,12 @@ This table lists all lab session and coding challenge session incl. the associat
 | Mon, Mar. 07            | Lab 2   | Artificial Neural Networks (ANNs) & MNIST               | tba | tba |
 | Mon, Mar. 14            | Lab 3   | Convolutional Neural Networks (CNNs) & CIFAR10          | tba | tba |
 | Mon, Mar. 21            | Lab 4   | Recurrent Neural Networks (RNNs) & Nasdaq               | tba | tba |
-| Mon, Mar. 28            | -       | Coding Challenge - Kick-Off                             | tba | tba |
+| Mon, Mar. 28            | CC 1    | Coding Challenge - Kick-Off                             | tba | tba |
 | Mon, Apr. 25            | Lab 5   | Autoencoder Neural Networks (AENs) & Accounting         | tba | tba |
-| Mon, May 02             | -       | Coding Challenge - Mid-Term                             | tba | tba |
+| Mon, May 02             | CC 2    | Coding Challenge - Mid-Term                             | tba | tba |
 | Mon, May 09             | Lab 6   | Generative Adversarial Networks (GANs) & Fashion MNIST  | tba | tba |
 | Mon, May 16             | Lab 7   | Reinforcement Learning                                  | tba | tba |
-| Mon, May 23             | -       | Coding Challenge - Submission                           | tba | tba |
+| Mon, May 23             | CC 3    | Coding Challenge - Submission                           | tba | tba |
 
 ## Course Coding Challenge Notebooks
 
