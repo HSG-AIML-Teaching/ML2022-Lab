@@ -14,16 +14,16 @@ Happy Coding!
 
 Your Machine Learning Teaching Team
 
-## Course Code Lab Notebooks
+## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-This table lists all lab session and coding challenge session incl. the associated notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg):
+This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. We aim to upload each lab notebooks the day before the lab respectively.
 
 
 | Date                    | Lab        |  Content                         |  CoLab Notebook                 | MyBinder Notebook | 
 |:-----------------------:|:----------:|:---------------------------------|:-------------------------------:|:-------:|
-|  < Mon, Feb. 28         | -       | Prerequisite: Test Notebooks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
-|  < Mon, Feb. 28         | -       | Python 101: Jupyter Notebooks and Python Basics         | - | - |
-|  < Mon, Feb. 28         | -       | Python 102: Numerical Math & Images                     | - | - |
+|  < Mon, Feb. 28         | -       | Python 101: Introduction to Python and Jupyter          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
+|  < Mon, Feb. 28         | -       | Python 102: Python Data Types and Containers            | - | - |
+|  < Mon, Feb. 28         | -       | Python 103: NumPy, Pillow, and Matplotlib               | - | - |
 | Mon, Feb. 28            | Lab 1   | Support Vector Machines (SVMs) & Fashion MNIST          | tba | tba |
 | Mon, Mar. 07            | Lab 2   | Artificial Neural Networks (ANNs) & MNIST               | tba | tba |
 | Mon, Mar. 14            | Lab 3   | Convolutional Neural Networks (CNNs) & CIFAR10          | tba | tba |
