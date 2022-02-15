@@ -40,7 +40,7 @@ This table lists all coding challenge notebooks:
 
 | Date                      |  Content                          |  CoLab Notebook                       | MyBinder Notebook | 
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
-|  tbd | Kickstarter Notebook | - | - |
+|  Mon, Mar. 28 | Kickstarter Notebook | - | - |
 
 
 ## How To Run the Course Code Lab Notebooks
