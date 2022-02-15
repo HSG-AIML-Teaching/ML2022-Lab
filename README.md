@@ -21,7 +21,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 
 | Date                    | Lab        |  Content                         |  CoLab Notebook                 | MyBinder Notebook | 
 |:-----------------------:|:----------:|:---------------------------------|:-------------------------------:|:-------:|
-|  < Mon, Feb. 28         | -       | Introduction to the Notebook Environment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
+|  < Mon, Feb. 28         | -       | Python 101: Introduction to Python and Jupyter          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
 |  < Mon, Feb. 28         | -       | Python 101: Python Data Types and Containers            | - | - |
 |  < Mon, Feb. 28         | -       | Python 102: NumPy, Pillow, and Matplotlib               | - | - |
 | Mon, Feb. 28            | Lab 1   | Support Vector Machines (SVMs) & Fashion MNIST          | tba | tba |
