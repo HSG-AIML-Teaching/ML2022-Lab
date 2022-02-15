@@ -19,14 +19,14 @@ This table lists all code lab notebooks:
 
 | Date                      |  Content                           |  CoLab Notebook                       | MyBinder Notebook | 
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
-|  < Mon, Jan 17                   | Prerequisite | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
-| Mon, Jan 17.                     |  Python 101: Jupyter Notebooks and Python Basics  | - | - |
-| Tue, Jan 18, morning session     |  Python 102: Numerical Math & Images              | - | - |
-| Tue, Jan 18, afternoon session   |  Machine Learning I<br/>(Naive Bayes)             | - | - |
-| Tue, Jan 18, afternoon session   |  Machine Learning II<br/>(k Nearest-Neighbors)    | - | - |
-| Wed, Jan 19, morning session     |  Deep Learning I<br/>(Artificial Neural Nets)     | - | - |
-| Wed, Jan 19, afternoon session   |  Deep Learning II<br/>(Convolutional Neural Nets) | - | - |
-| < TBD                            |  Exam Exercise | - | - |
+|  < Mon, Feb. 28         | Prerequisite | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IEMBA2022-Lab/blob/main/lab_00/Test.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IEMBA2022-Lab/main?filepath=lab_00%2FTest.ipynb)|
+|  < Mon, Feb. 28         |  Python 101: Jupyter Notebooks and Python Basics  | - | - |
+|  < Mon, Feb. 28         |  Python 102: Numerical Math & Images              | - | - |
+| Mon, Feb. 28            |  Support Vector Machines (SVMs) & Fashion MNIST   | - | - |
+| Mon, Mar. 07            |  Artificial Neural Networks (ANNs) & MNIST        | - | - |
+| Mon, Mar. 14            |  Convolutional Neural Networks (CNNs) & CIFAR10   | - | - |
+| Mon, Mar. 21            |  Recurrent Neural Networks (RNNs) & Nasdaq        | - | - |
+| Mon, Mar. 28            |  Coding Challenge Kick-Off Lab                    | - | - |
 
 
 ## Course Coding Challenge Notebooks
