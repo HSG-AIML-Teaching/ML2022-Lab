@@ -16,7 +16,7 @@ Your Machine Learning Teaching Team
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-This table lists all lab session and coding challenge session incl. the associated notebooks. We aim to upload each lab notebooks the day before the lab respectively.
+This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. We aim to upload each lab notebooks the day before the lab respectively.
 
 
 | Date                    | Lab        |  Content                         |  CoLab Notebook                 | MyBinder Notebook | 
