@@ -6,6 +6,8 @@ Welcome to our 8,860,1.00 elective course **Machine Learning**, taught by **Prof
 
 Lectures and hands-on lab courses alternate to provide a better learning experience in this course. The lab course materials for Python programming, Machine Learning, and Deep Learning are available and accessible through this repository.
 
+The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org).
+
 Please use a laptop computer for the lab courses (not a tablet) to fully participate in the code labs.
 
 Happy Coding!
@@ -14,7 +16,7 @@ Your Machine Learning Teaching Team
 
 ## Course Code Lab Notebooks
 
-This table lists all lab session and coding challenge session incl. the associated notebooks:
+This table lists all lab session and coding challenge session incl. the associated notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg):
 
 
 | Date                    | Lab        |  Content                         |  CoLab Notebook                 | MyBinder Notebook | 
