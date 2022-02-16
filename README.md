@@ -6,9 +6,7 @@ Welcome to our 8,860,1.00 elective course **Machine Learning**, taught by **Prof
 
 Lectures and hands-on lab courses alternate to provide a better learning experience in this course. The lab course materials for Python programming, Machine Learning, and Deep Learning are available and accessible through this repository.
 
-The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org).
-
-The lab notebooks are developed and maintained by **Marco Schreyer**, **Konstantin Schuerholt**, and **Linus Scheibenreif**.
+The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org). The lab notebooks are developed and maintained by the course TA's **Marco Schreyer**, **Konstantin Schuerholt**, and **Linus Scheibenreif**.
 
 Please use a laptop computer for the lab courses (not a tablet) to fully participate in the code labs.
 
@@ -31,7 +29,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 | Date                    | Lab        |  Content                         |  CoLab Notebook                 | MyBinder Notebook | 
 |:-----------------------:|:----------:|:---------------------------------|:-------------------------------:|:-------:|
 |  < Mon, Feb. 28         | -       | Python 101: Introduction to Python and Jupyter          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_101/lab_101_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=lab_101%2Flab_101_notebook.ipynb)|
-|  < Mon, Feb. 28         | -       | Python 102: Python Data Types and Containers            | - | - |
+|  < Mon, Feb. 28         | -       | Python 102: Python Data Types and Containers            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_102/lab_102_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=lab_102%2Flab_102_notebook.ipynb)|
 |  < Mon, Feb. 28         | -       | Python 103: NumPy, Pillow, and Matplotlib               | - | - |
 | Mon, Feb. 28            | Lab 1   | Support Vector Machines (SVMs) & Fashion MNIST          | tba | tba |
 | Mon, Mar. 07            | Lab 2   | Artificial Neural Networks (ANNs) & MNIST               | tba | tba |
