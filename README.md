@@ -8,11 +8,20 @@ Lectures and hands-on lab courses alternate to provide a better learning experie
 
 The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org).
 
+The lab notebooks are developed and maintained by **Marco Schreyer**, **Konstantin Schuerholt**, and **Linus Scheibenreif**.
+
 Please use a laptop computer for the lab courses (not a tablet) to fully participate in the code labs.
 
 Happy Coding!
 
 Your Machine Learning Teaching Team
+
+## Course Logistics
+
+- **Lectures:** Mondays 2:15 – 3:45PM CET, **Labs:** Mondays 4:15 – 5:45PM CET. Zoom links are posted on Canvas.
+- **Lecture Videos:** Will be posted on Canvas shortly after each lecture. These are unfortunately only accessible to enrolled HSG students.
+- **Office Hours:** To be announced.
+- **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
@@ -44,7 +53,6 @@ This table lists all coding challenge notebooks:
 | Date                      |  Content                          |  CoLab Notebook                       | MyBinder Notebook | 
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
 |  Mon, Mar. 28 | Kickstarter Notebook | - | - |
-
 
 ## How To Run the Course Code Lab Notebooks
 
@@ -79,4 +87,6 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Questions?
 
-Please don't hesitate to send us your questions to: `aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`  
+For external enquiries, emergencies, or personal matters that you don't - wish to put in a private post, you can email us via:
+`aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
+
