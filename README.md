@@ -85,5 +85,6 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Questions?
 
-For external enquiries, emergencies, or personal matters that you don't -wish to put in a private post, you can email us `aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
+For external enquiries, emergencies, or personal matters that you don't - wish to put in a private post, you can email us via:
+`aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
 
