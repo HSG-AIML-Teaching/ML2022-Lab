@@ -86,5 +86,5 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Questions?
 
-Please use the Canvas forum for course related questions. For external enquiries, emergencies, or personal matters that you don't - wish to put in a private post, you can email us via: `aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
+Please use the Canvas forum for course related questions. For external enquiries, emergencies, or personal matters that you don't - wish to put in a private post, you can email us via: `aiml (minus) teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
 
