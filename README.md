@@ -8,11 +8,7 @@ Lectures and hands-on lab courses alternate to provide a better learning experie
 
 The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org). The lab notebooks are developed and maintained by the course TA's **Marco Schreyer**, **Konstantin Schuerholt**, and **Linus Scheibenreif**.
 
-Please use a laptop computer for the lab courses (not a tablet) to fully participate in the code labs.
-
 Happy Coding!
-
-Your Machine Learning Teaching Team
 
 ## Course Logistics
 
