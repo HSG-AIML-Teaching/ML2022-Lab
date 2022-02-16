@@ -14,6 +14,13 @@ Happy Coding!
 
 Your Machine Learning Teaching Team
 
+## Course Logistics
+
+- **Lectures:** Mondays 2:15 – 3:45PM CET, **Labs:** Mondays 4:15 – 5:45PM CET. Zoom links are posted on Canvas.
+- **Lecture Videos:** Will be posted on Canvas shortly after each lecture. These are unfortunately only accessible to enrolled HSG students.
+- **Office Hours:** To be announced.
+- **Announcements:** All course-related announcements and questions will happen on Canvas.
+
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. We aim to upload each lab notebooks the day before the lab respectively.
@@ -44,13 +51,6 @@ This table lists all coding challenge notebooks:
 | Date                      |  Content                          |  CoLab Notebook                       | MyBinder Notebook | 
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
 |  Mon, Mar. 28 | Kickstarter Notebook | - | - |
-
-## Course Logistics
-
-- **Lectures:** Mondays 2:15 – 3:45PM CET, **Labs:** Mondays 4:15 – 5:45PM CET. Zoom links are posted on Canvas.
-- **Lecture Videos:** Will be posted on Canvas shortly after each lecture. These are unfortunately only accessible to enrolled HSG students.
-- **Office Hours:** To be announced.
-- **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## How To Run the Course Code Lab Notebooks
 
