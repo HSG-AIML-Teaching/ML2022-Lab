@@ -19,7 +19,7 @@ Your Machine Learning Teaching Team
 - **Lectures:** Mondays 2:15-3:45PM CET, Zoom links are posted on Canvas.
 - **Labs:** Mondays 4:15-5:45PM CET, Zoom links are posted on Canvas.
 - **Zoom Videos:** Will be posted on Canvas shortly after each lecture/lab (unfortunately only accessible to enrolled HSG students).
-- **Office Hours:** Will be announced in the first week of the course.
+- **Office Hours:** Tuesdays 2:00-3:00PM CET, please send us a corresponding invitation via mail.
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
