@@ -50,8 +50,7 @@ This table lists all coding challenge notebooks:
 - **Lectures:** Mondays 2:15 – 3:45PM CET, **Labs:** Mondays 4:15 – 5:45PM CET. Zoom links are posted on Canvas.
 - **Lecture Videos:** Will be posted on Canvas shortly after each lecture. These are unfortunately only accessible to enrolled HSG students.
 - **Office Hours:** To be announced.
-- **Announcements:** All course-related announcements and questions will happen on Canvas. 
-- **Contact:** For external enquiries, emergencies, or personal matters that you don't -wish to put in a private post, you can email us `aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
+- **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## How To Run the Course Code Lab Notebooks
 
@@ -86,4 +85,5 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Questions?
 
-Please don't hesitate to send us your questions to: `aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`  
+For external enquiries, emergencies, or personal matters that you don't -wish to put in a private post, you can email us `aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
+
