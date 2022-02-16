@@ -16,8 +16,8 @@ Your Machine Learning Teaching Team
 
 ## Course Logistics
 
-- **Lectures:** Mondays 2:15 – 3:45PM CET, Zoom links are posted on Canvas.
-- **Labs:** Mondays 4:15 – 5:45PM CET, Zoom links are posted on Canvas.
+- **Lectures:** Mondays 2:15-3:45PM CET, Zoom links are posted on Canvas.
+- **Labs:** Mondays 4:15-5:45PM CET, Zoom links are posted on Canvas.
 - **Zoom Videos:** Will be posted on Canvas shortly after each lecture/lab (unfortunately only accessible to enrolled HSG students).
 - **Office Hours:** Will be announced in the first week of the course.
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
