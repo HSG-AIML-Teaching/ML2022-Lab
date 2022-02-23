@@ -23,7 +23,7 @@ Happy Coding!
 This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. Click on the to corresponding launchers to start the notebooks in the MyBinder or Google Colab evironment. We aim to upload each lab notebook the day before the lab respectively.
 
 
-| Date                    | Lab        |  Content                         |  CoLab Notebook                 | MyBinder Notebook | 
+| Date                    | Lab        |  Content                         |  CoLab Notebook Launchers                 | MyBinder Notebook Launchers| 
 |:-----------------------:|:----------:|:---------------------------------|:-------------------------------:|:-------:|
 |  < Mon, Feb. 28         | -       | Python 101: Introduction to Python and Jupyter          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_101/lab_101_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=lab_101%2Flab_101_notebook.ipynb)|
 |  < Mon, Feb. 28         | -       | Python 102: Python Data Types and Containers            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_102/lab_102_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=lab_102%2Flab_102_notebook.ipynb)|
