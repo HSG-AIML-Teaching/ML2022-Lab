@@ -8,39 +8,36 @@ Lectures and hands-on lab courses alternate to provide a better learning experie
 
 The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org). The lab notebooks are developed and maintained by the course TA's **Marco Schreyer**, **Konstantin Schuerholt**, and **Linus Scheibenreif**.
 
-Please use a laptop computer for the lab courses (not a tablet) to fully participate in the code labs.
-
 Happy Coding!
-
-Your Machine Learning Teaching Team
 
 ## Course Logistics
 
-- **Lectures:** Mondays 2:15 – 3:45PM CET, **Labs:** Mondays 4:15 – 5:45PM CET. Zoom links are posted on Canvas.
-- **Lecture Videos:** Will be posted on Canvas shortly after each lecture. These are unfortunately only accessible to enrolled HSG students.
-- **Office Hours:** To be announced.
+- **Lectures:** Mondays 2:15-3:45PM CET, Zoom links are posted on Canvas.
+- **Labs:** Mondays 4:15-5:45PM CET, Zoom links are posted on Canvas.
+- **Zoom Videos:** Will be posted on Canvas shortly after each lecture/lab (unfortunately only accessible to enrolled HSG students).
+- **Labs Office Hours:** Tuesdays 2:00-3:00PM CET, please send us a corresponding invitation via mail.
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. We aim to upload each lab notebooks the day before the lab respectively.
+This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
 
 
-| Date                    | Lab        |  Content                         |  CoLab Notebook                 | MyBinder Notebook | 
+| Date                    | Lab        |  Content                         |  CoLab Notebook Launchers                 | MyBinder Notebook Launchers| 
 |:-----------------------:|:----------:|:---------------------------------|:-------------------------------:|:-------:|
 |  < Mon, Feb. 28         | -       | Python 101: Introduction to Python and Jupyter          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_101/lab_101_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=lab_101%2Flab_101_notebook.ipynb)|
 |  < Mon, Feb. 28         | -       | Python 102: Python Data Types and Containers            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_102/lab_102_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=lab_102%2Flab_102_notebook.ipynb)|
 |  < Mon, Feb. 28         | -       | Python 103: NumPy, Pillow, and Matplotlib               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_103/lab_103_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=lab_103%2Flab_103_notebook.ipynb)|
-| Mon, Feb. 28            | Lab 1   | Support Vector Machines (SVMs) & Fashion MNIST          | tba | tba |
-| Mon, Mar. 07            | Lab 2   | Artificial Neural Networks (ANNs) & MNIST               | tba | tba |
-| Mon, Mar. 14            | Lab 3   | Convolutional Neural Networks (CNNs) & CIFAR10          | tba | tba |
-| Mon, Mar. 21            | Lab 4   | Recurrent Neural Networks (RNNs) & Nasdaq               | tba | tba |
+| Mon, Feb. 28            | **Lab 1**   | Support Vector Machines (SVMs) & MNIST          | tba | tba |
+| Mon, Mar. 07            | **Lab 2**   | Artificial Neural Networks (ANNs) & MNIST               | tba | tba |
+| Mon, Mar. 14            | **Lab 3**   | Convolutional Neural Networks (CNNs) & CIFAR10          | tba | tba |
+| Mon, Mar. 21            | **Lab 4**   | Recurrent Neural Networks (RNNs) & Nasdaq               | tba | tba |
 | Mon, Mar. 28            | CC 1    | Coding Challenge - Kick-Off                             | tba | tba |
 | -                       | -       | Semester Break - Happy Easter!                          | -   | -   |
-| Mon, Apr. 25            | Lab 5   | Autoencoder Neural Networks (AENs) & Accounting         | tba | tba |
+| Mon, Apr. 25            | **Lab 5**   | Autoencoder Neural Networks (AENs) & Accounting         | tba | tba |
 | Mon, May 02             | CC 2    | Coding Challenge - Mid-Term                             | tba | tba |
-| Mon, May 09             | Lab 6   | Generative Adversarial Networks (GANs) & Fashion MNIST  | tba | tba |
-| Mon, May 16             | Lab 7   | Reinforcement Learning                                  | tba | tba |
+| Mon, May 09             | **Lab 6**   | Generative Adversarial Networks (GANs) & Fashion MNIST  | tba | tba |
+| Mon, May 16             | **Lab 7**   | Reinforcement Learning                                  | tba | tba |
 | Mon, May 23             | CC 3    | Coding Challenge - Submission                           | tba | tba |
 
 ## Course Coding Challenge Notebooks
@@ -85,6 +82,5 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Questions?
 
-For external enquiries, emergencies, or personal matters that you don't - wish to put in a private post, you can email us via:
-`aiml-teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
+Please use the Canvas forum for course related questions. For external enquiries, emergencies, or personal matters that you don't wish to put in a forum post, you can email us via: `aiml (minus) teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
 
