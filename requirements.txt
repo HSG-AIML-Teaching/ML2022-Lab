@@ -12,3 +12,4 @@ seaborn>=0.9.0
 torch>=1.6.0
 torchvision>=0.7.0
 bt>=0.2.9
+urllib>=3.9.10
