@@ -6,7 +6,7 @@ Welcome to our 8,860,1.00 elective course **Machine Learning**, taught by **Prof
 
 Lectures and hands-on lab courses alternate to provide a better learning experience in this course. The lab course materials for Python programming, Machine Learning, and Deep Learning are available and accessible through this repository.
 
-The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org). The lab notebooks are developed and maintained by the course TA's **Marco Schreyer**, **Konstantin Schuerholt**, and **Linus Scheibenreif**.
+The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org), and [PyTorch](https://pytorch.org). The lab notebooks are developed and maintained by the course TA's [Marco Schreyer](https://www.alexandria.unisg.ch/persons/8072), [Konstantin Schuerholt](https://www.alexandria.unisg.ch/persons/9606), and [Linus Scheibenreif](https://www.alexandria.unisg.ch/persons/9588).
 
 Happy Coding!
 
