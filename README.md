@@ -49,7 +49,7 @@ This table lists all coding challenge notebooks:
 
 | Date                      |  Content                          |  CoLab Notebook                       | MyBinder Notebook | 
 |:-----------------------:|:---------------------------------:|:-------------------------------:|:-------:|
-|  Mon, Mar. 28 | Kickstarter Notebook | - | - |
+|  Mon, Mar. 28 | Kickstarter Notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/cc_1/cc_01_getting_started.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=cc_1%2Fcc_01_getting_started.ipynb) |
 
 ## How To Run the Course Code Lab Notebooks
 
