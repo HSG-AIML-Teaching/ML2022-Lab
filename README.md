@@ -37,9 +37,9 @@ This table lists all lab session and coding challenge session incl. the launcher
 | Mon, Mar. 28            | CC 1    | Coding Challenge - Kick-Off                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/cc_1/cc_01_getting_started.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?filepath=cc_1%2Fcc_01_getting_started.ipynb) |
 | -                       | -       | Semester Break - Happy Easter!                          | -   | -   |
 | Mon, Apr. 25            | **Lab 5**   | Autoencoder Neural Networks (AENs) & Accounting         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_5/colab_05.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?labpath=lab_5%2Flab_05.ipynb) |
-| Mon, May 02             | CC 2    | Coding Challenge - Mid-Term                             | tba | tba |
-| Mon, May 09             | **Lab 6**   | Generative Adversarial Networks (GANs) & Fashion MNIST  | tba | tba |
-| Mon, May 16             | **Lab 7**   | Reinforcement Learning                                  | tba | tba |
+| Mon, May 02             | CC 2    | Coding Challenge - Mid-Term                             | - | - |
+| Mon, May 16             | **Lab 6**   | Reinforcement Learning                                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2022-Lab/blob/main/lab_6/colab_06.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2022-Lab/main?labpath=lab_6%2Flab_06.ipynb) |
+| Mon, May 09             | **Lab 7**   | Generative Adversarial Networks (GANs) & Fashion MNIST  | tba | tba |
 | Mon, May 23             | CC 3    | Coding Challenge - Submission                           | tba | tba |
 
 ## Course Coding Challenge Notebooks
